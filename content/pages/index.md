@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: Alerts
+  - type: AlertSection
     body: Hello, I'm an alert!
   - type: HeroSection
     elementId: homepage-hero-1
