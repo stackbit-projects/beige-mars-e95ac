@@ -4,7 +4,7 @@ sections:
   - type: PostFeedSection
     variant: variant-a
     colors: colors-a
-    title: Blog
+    title: About Us
     showRecent: true
     recentCount: 6
     subtitle: ''
