@@ -3,9 +3,7 @@ title: Convert commute time to family time
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'Commute time conversion to family time would be '
 featuredImage:
   type: ImageBlock
   url: /images/post-4.jpg
