@@ -3,7 +3,7 @@ title: Careers
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     title: We’re growing exponentially
     subtitle: You should join us.
     media:
