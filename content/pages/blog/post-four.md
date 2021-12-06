@@ -5,7 +5,7 @@ date: '2021-11-03'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
   Commute time conversion to family time would be a good approach if individuals
-  incorporate it in their daily schedules.
+  incorporate it into their daily schedules.
 featuredImage:
   type: ImageBlock
   url: /images/post-4.jpg
